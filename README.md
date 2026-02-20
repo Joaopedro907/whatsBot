@@ -28,3 +28,9 @@ Automatizar o atendimento inicial da empresa Hausen, direcionando solicitações
 Observação:
 
 Este projeto utiliza automação baseada no WhatsApp Web e não na API oficial da Meta. O uso deve considerar as políticas da plataforma.
+
+Passo a passo:
+1 - baixe os arquivos do projeto
+2 - extraia eles em algum local da sua máquina
+3 - abra a pasta do projeto e na barra de pesquisa, digite CMD e pressione ENTER. Assim ele vai abrir diretamente no diretório da pasta do projeto
+4 - Instale o NPM com o comando "npm install"
